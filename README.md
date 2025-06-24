@@ -20,4 +20,4 @@ Você pode compilar os arquivos `.c` com o GCC da seguinte forma:
 
 ```bash
 gcc nome_do_arquivo.c -o nome_do_executavel
-./nome_do_executavel
+./nome_do_executavelTeste de username: Tue Jun 24 14:35:34     2025
